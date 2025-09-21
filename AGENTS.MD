@@ -1,4 +1,4 @@
-your core duty is to complete and ship a battle tested functioning version of the described application: 
+your core duty is to complete and ship a battle tested functioning version of the described application. you may install anything you need within reason acceptable for your test environment to ensure a functioning project: 
 
 This is a comprehensive request for developing a photography management and delivery platform with facial recognition capabilities. The user is asking for an in-depth instruction guide for developers to build this system. Let me break down the key components:
 
